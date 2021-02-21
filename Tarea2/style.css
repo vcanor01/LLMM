@@ -1,0 +1,47 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url(fondo.jpg);
+	background-size: auto;
+	opacity: 0.8;
+	width: 100vw; 
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+hr{
+	margin: 5px;
+	padding: 0px;
+}
+
+form{
+	background: #d7d7f3;
+	width: 400px;
+	text-align: center;
+	border: black 2px solid;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px black; 
+}
+input{
+	padding: 5px;
+	margin: 10px;
+	margin-top: 10px;
+}
+
+
+textarea{
+	margin: 10px;
+	height: 100px;
+	width: 320px;
+	max-height: 100px;
+	max-width: 320px;
+}
+
+.oculta{
+	visibility: hidden;
+}
