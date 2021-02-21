@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: url(fondo.jpg);
+
+	opacity: 0.8;
+}
+
+hr{
+	margin: 5px;
+	padding: 0px;
+}
+
+form{
+	background: #d7d7f3;
+	padding: 10px;
+	margin: 100px auto;
+	width: 400px;
+	text-align: center;
+	border: black 2px solid;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px black; 
+}
+input{
+	padding: 5px;
+	margin: 5px;
+	margin-top: 10px;
+}
+
+
+textarea{
+	margin: 10px;
+	width:320px;
+	height:100px;
+}
+
+.oculta{
+	visibility: hidden;
+}
