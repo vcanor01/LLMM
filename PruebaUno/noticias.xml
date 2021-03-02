@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<listaNoticias>
+
+	<noticia>
+		<titulo>La astronauta más joven de EEUU</titulo>
+		<fecha>01/03/2021</fecha>
+		<texto>Hayley Arceneaux será una de los cuatro participantes en el primer vuelo espacial civil a bordo de una nave de la compañía Space X. Hayley Arceneaux, de 29 años y superviviente de un cáncer de huesos, será una de las cuatro personas participantes en el primer vuelo espacial civil, una iniciativa del multimillonario Jared Isaacman con fines benéficos.</texto>
+		<imagen>https://phantom-elmundo.unidadeditorial.es/742aeef4ab20a11ef71748970837adec/crop/0x0/1018x679/resize/473/f/webp/assets/multimedia/imagenes/2021/02/23/16140615141801.jpg</imagen>
+	</noticia>
+
+
+	<noticia>
+		<titulo>El Gobierno da luz verde a la compra de 17 millones de dosis</titulo>
+		<fecha>01/03/2021</fecha>
+		<texto>España comprará 17 millones de dosis adicionales de la vacuna de Moderna contra el coronavirus, dentro de la negociación de la Unión Europea, que ha comprado 150 millones de dosis. 5,7 millones de los que le corresponden a España llegarán en el tercer trimestre y 11,3 en el cuarto.</texto>
+		<imagen>https://phantom-elmundo.unidadeditorial.es/f321598dc34399aebc368efafb938778/crop/0x24/1022x706/resize/473/f/webp/assets/multimedia/imagenes/2021/03/02/16146966640456.jpg</imagen>
+	</noticia>
+
+
+
+	<noticia>
+		<titulo>Salvamento Marítimo pide precaución ante el avistamiento de varias orcas en la costa gallega.</titulo>
+		<fecha>01/03/2021</fecha>
+		<texto>Un grupo de orcas de gran tamaño ha sido avistado en la costa de Fisterra, en la provincia de A Coruña, donde Salvamento Marítimo ha llamado a que las embarcaciones que naveguen por la zona lo hagan con precaución.</texto>
+		<imagen>https://phantom-elmundo.unidadeditorial.es/9cea6fb0646fc483b2a6ab9bb529ff94/crop/89x0/1023x623/resize/473/f/webp/assets/multimedia/imagenes/2021/02/28/16145275770459.jpg</imagen>
+	</noticia>
+
+
+</listaNoticias>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<listaNoticias>
+
+	<noticia>
+		<titulo>Más de 560 científicos apoyan que se prohíba la caza del lobo</titulo>
+		<fecha>01/03/2021</fecha>
+		<texto>Un total de 562 científicos han firmado este sábado una carta abierta en favor de la protección del lobo ibérico, la ciencia y la coexistencia con otras actividades, como la ganadería extensiva</texto>
+		<imagen>https://phantom-elmundo.unidadeditorial.es/17a751dbd98b0c7324265dad220cf682/crop/0x0/600x399/resize/473/f/webp/assets/multimedia/imagenes/2021/02/27/16144277960339.jpg</imagen>
+	</noticia>
+
+
+	<noticia>
+		<titulo>Agujeros negros o estrellas de bosones, los dos posibles orígenes de la onda gravitacional más intrigante</titulo>
+		<fecha>01/03/2021</fecha>
+		<texto>Cuando las estrellas de bosones se fusionan, forman una estrella hipermasiva que se vuelve inestable y colapsa a un agujero negro, lo que genera una señal idéntica a la que LIGO y Virgo observaron el 21 de mayo de 2019.</texto>
+		<imagen>https://phantom-elmundo.unidadeditorial.es/be3778ad62653dbdc9d4cb5f1f4c61b7/crop/167x2/1115x635/resize/473/f/webp/assets/multimedia/imagenes/2021/02/24/16141719301164.jpg</imagen>
+	</noticia>
+
+
+
+	<noticia>
+		<titulo>Un enjambre de agujeros negros</titulo>
+		<fecha>01/03/2021</fecha>
+		<texto>El astrónomo Rafael Bachiller nos descubre en esta serie los fenómenos más espectaculares del Cosmos. Temas de palpitante investigación, aventuras astronómicas y novedades científicas sobre el Universo analizadas en profundidad.</texto>
+		<imagen>https://phantom-elmundo.unidadeditorial.es/5e952873f098a2b9dd53251b5a58d589/crop/36x30/1280x859/resize/473/f/webp/assets/multimedia/imagenes/2021/02/16/16134757241216.jpg</imagen>
+	</noticia>
+
+
+</listaNoticias>
