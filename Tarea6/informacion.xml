@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<listado>
+
+
+<listaTweets>
+	<tweet>
+		<imagen>https://cdn.pixabay.com/photo/2020/06/03/14/53/girl-5255195_960_720.jpg</imagen>
+		<nombreUsuario>Violeta Marquez</nombreUsuario>
+		<correoUsuario>@VioletM01</correoUsuario>
+		<texto>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</texto>
+		<imagen>imagenes/tweetUno.jpg</imagen>
+	</tweet>
+	<tweet>
+		<imagen>https://cdn.pixabay.com/photo/2015/07/09/00/29/woman-837156_960_720.jpg</imagen>
+		<nombreUsuario>Macarena Hernandez</nombreUsuario>
+		<correoUsuario>@Maca1723</correoUsuario>
+		<texto>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</texto>
+		<imagen>imagenes/flamenco.png</imagen>
+	</tweet>
+	<tweet>
+		<imagen>https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358_960_720.jpg</imagen>
+		<nombreUsuario>Sergio Fernandez</nombreUsuario>
+		<correoUsuario>@SerFer02</correoUsuario>
+		<texto>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</texto>
+		<imagen>imagenes/futbol.png</imagen>
+	</tweet>
+	
+</listaTweets>
+
+
+<listaSugerencias>
+	<sugerencia>
+		<imagenUsuario>https://cdn.pixabay.com/photo/2017/03/27/14/07/adult-2178963_960_720.jpg</imagenUsuario>
+		<nombreUsuario>Marcos Lizarro</nombreUsuario>
+		<correoUsuario>@MarcLi</correoUsuario>
+		
+	</sugerencia>
+	<sugerencia>
+		<imagenUsuario>https://cdn.pixabay.com/photo/2019/12/28/02/16/senior-4723737_960_720.jpg</imagenUsuario>
+		<nombreUsuario>Antonio Calvo</nombreUsuario>
+		<correoUsuario>@Calanto</correoUsuario>
+		
+	</sugerencia>
+	<sugerencia>
+		<imagenUsuario>https://cdn.pixabay.com/photo/2015/05/15/14/46/persons-768683_960_720.jpg</imagenUsuario>
+		<nombreUsuario>Yolanda Ramirez</nombreUsuario>
+		<correoUsuario>@YoliRami</correoUsuario>
+	
+	</sugerencia>
+	<sugerencia>
+		<imagenUsuario>https://cdn.pixabay.com/photo/2016/01/19/15/04/couple-1149143_960_720.jpg</imagenUsuario>
+		<nombreUsuario>Claudia Naranjo</nombreUsuario>
+		<correoUsuario>@NaranCla</correoUsuario>
+		
+	</sugerencia>
+	<sugerencia>
+		<imagenUsuario>https://cdn.pixabay.com/photo/2016/11/25/16/27/girl-1858727_960_720.jpg</imagenUsuario>
+		<nombreUsuario>Fernanda Sanchez</nombreUsuario>
+		<correoUsuario>@MFerSan</correoUsuario>
+	</sugerencia>
+</listaSugerencias>
+
+<listaPasando>
+	<recomendacion>
+		<tituloRecomendacion>Terremoto en Japon</tituloRecomendacion>
+		<imagenRecomendacion>imagenes/japon.png</imagenRecomendacion>
+	</recomendacion>
+
+	<recomendacion>
+		<tituloRecomendacion>Nueva vacuna para el covid</tituloRecomendacion>
+		<imagenRecomendacion>imagenes/coronavirus.png</imagenRecomendacion>
+	</recomendacion>
+
+	<recomendacion>
+		<tituloRecomendacion>Barça vs Madrid </tituloRecomendacion>
+		<imagenRecomendacion>imagenes/futbol.png</imagenRecomendacion>
+	</recomendacion>
+</listaPasando>
+
+</listado>

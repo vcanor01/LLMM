@@ -1,0 +1,223 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+
+}
+body{
+	overflow-x: hidden;
+}
+
+#abrirFichero{
+	margin: 10px;
+	width: 100px;
+	height: 35px;
+}
+h1{
+	color: #55ACEE;
+	margin: 10px;
+	
+}
+#header{
+	display: flex;
+	justify-content: space-between;
+	background: white;
+
+
+	
+}
+#footer{
+	display: flex;
+	background: white;
+	justify-content: left;
+	margin: 20px;
+}
+
+
+#contenedor{
+	display: flex;
+	flex-direction: row;
+	height: 160vh;
+	width: 100vw;
+	background: white;
+	overflow-x:hidden;
+}
+a{
+	margin: 10px;
+	color: #55ACEE;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#contenedorNav{
+	display: flex;
+	flex-direction: column;
+	margin: 20px;
+
+}
+#medio{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	justify-content: space-between;
+	align-items: left;
+	width: 60%;
+	border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+
+	height: 100%;
+}
+
+
+.elementosTweets{
+	display: flex;
+	flex-direction: column;
+}
+
+		.elementosTweets h3{
+			margin: 20px 5px 0px 0px;
+		}
+		.elementosTweets h4{
+			color: #ccc;
+			margin-top: 23px;
+			font-weight: normal;
+	
+		}
+		.elementosTweets .imagenTweet{
+			margin: 34px 0px 0px 40px; /* Arriba | Derecha | Abajo | Izquierda */
+		}
+		.elementosTweets p{
+			margin: 20px;
+		}
+		.elementosTweets .imagenIcono{
+			margin-left: 10px;
+			margin-top: 10px;
+		}
+
+.usuario{
+	display: flex;
+	flex-direction: row;
+}
+
+
+
+#izquierda{
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	width: 20%;
+	background: white;
+}
+#derecha{
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	width: 30%;
+	background: white;
+}
+
+.imagenTweet{
+	margin-top: 25px;
+	/*min-width: 277.4px;
+	min-height: 277.4px;
+	max-width: 277.4px;
+	max-height: 277.4px;*/
+	border-radius: 10px;
+	border: 2px #ccc;
+	width: 35%;
+	height: 45%;
+	
+
+}
+.imagenIcono{
+	width: 40px;
+	height: 40px;
+	border: 0px solid black;
+	border-radius: 40px;
+	margin-right: 10px;
+	margin-top: 8px;
+}
+
+.contenedorSugerencia{
+	display: flex;
+	flex-direction: row;
+	margin:7px 0px 16px 26px; /* Arriba | Derecha | Abajo | Izquierda */
+
+}
+		.contenedorSugerencia div{
+			margin-right: 10px;
+
+		}
+		.contenedorSugerencia h3{
+			margin-top: 15px;
+		}
+		.contenedorSugerencia p{
+			margin-right: 10px;
+			margin-top: 18px;
+			color: #ccc;
+
+		}
+		.contenedorSugerencia button{
+			margin:0px 10px 10px 15px ;
+		}
+		
+
+.boton{
+	width: 100px;
+	height: 38px;
+	border-radius: 40px;
+	/*border: 1px solid #55ACEE;*/
+	color:  #55ACEE;
+	background: #E1E8ED;
+	margin-left: 10px;
+}
+
+h2{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+p{
+	margin-top: 10px;
+}
+
+.imagenPasando{
+	width: 40px;
+	height: 40px;
+	border: 0px solid black;
+	margin-right: 10px;
+	margin-top: 8px;
+}
+
+/*div{
+	width: 100%;
+	/*height: 100%;
+}
+*/
+@media (max-width: 600px){
+	#contenedor{
+		flex-direction: column;
+		height: 250vh;
+		width: 100vw;
+	}
+	#medio{
+		width: 100%;
+	}
+	#izquierda{
+		width: 100%;
+	}
+	#derecha{
+		width: 100%;
+	}
+}
+
+
+
+.modoClaro{ /*Este esta en el div*/
+	background: white;
+	color: #000000d6;
+}
+
+.modoOscuro{ /*Este lo creamos desde el js*/
+	background: #292F33;
+ 	color: white;
+}
